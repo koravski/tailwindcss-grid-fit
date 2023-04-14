@@ -1,0 +1,23 @@
+{
+  "name": "@koravski/tailwindcss-grid-fit",
+  "version": "1.0.2",
+  "description": "Tailwind CSS utility classes for creating responsive grid columns without media queries using auto fit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kal Koravski",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.0"
+  },
+  "repository": "https://github.com/koravski/tailwindcss-grid-fit",
+  "keywords": [
+    "tailwind css",
+    "grid auto fit",
+    "grid fit",
+    "responsive grid",
+    "resposive grid layout in Tailwind CSS",
+    "Tailwind CSS Grid utility classes"
+  ]
+}
